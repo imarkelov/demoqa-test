@@ -1,4 +1,4 @@
-# demoqa-test
+# Покрытие UI/API автотестами  https://demoqa.com
 # Стек технологий
 Java Automated Tests from QA. 
 Написания UI автотестов с использованием следующего стека технологий:
