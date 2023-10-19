@@ -1,1 +1,7 @@
-# demoqa-test
+# Покрытие UI/API автотестами  https://demoqa.com
+# Стек технологий
+Java Automated Tests from QA. 
+
+|                                  Java 17                                  |                                   TestNG                                    | Selenide |                                     JIRA                                      | Allure Report |Telegram |                               IntelliJ IDEA                                | Rest-Assured | 
+|:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:----:|:-----------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:-------------:|
+| <img src="test/src/test/resources/image/Java.png" width="40" height="40"> | <img src="test/src/test/resources/image/TestNG.svg" width="40" height="40"> | <img src="test/src/test/resources/image/Selenide.svg" width="40" height="40"> | <img src="test/src/test/resources/image/Jira.png" width="40" height="40"> | <img src="test/src/test/resources/image/Allure_Report.png" width="40" height="40"> | <img src="test/src/test/resources/image/Telegram.png" width="40" height="40"> | <img src="test/src/test/resources/image/Intelij_IDEA.png" width="40" height="40"> | <img src="test/src/test/resources/image/Rest-Assured.png" width="40" height="40"> |
